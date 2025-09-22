@@ -1,0 +1,6 @@
+{
+  "input_map" : {
+    "string": "just_a_string",
+    "string_escaped": "$${string_escaped}"
+  }
+}
