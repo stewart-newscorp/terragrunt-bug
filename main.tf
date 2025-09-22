@@ -1,4 +1,3 @@
-# main.tf
 variable "input" {
   type = any
 }
